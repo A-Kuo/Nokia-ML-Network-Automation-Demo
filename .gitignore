@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+5g_brain.pkl
+config_change_*.json
